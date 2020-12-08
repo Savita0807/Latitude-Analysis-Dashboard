@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-Web page for this prject is present at:; https://savita0807.github.io/Web-Design-Challenge/WebVisualizations/ 
+Web page for this project is present at:; https://savita0807.github.io/Web-Design-Challenge/WebVisualizations/ 
 
 ## Background
 
