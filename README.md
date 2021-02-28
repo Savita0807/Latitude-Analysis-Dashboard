@@ -1,7 +1,7 @@
 # Latitude Analysis Dashboard
 
 
-Web page for this project is present at: https://savita0807.github.io/Web-Design-Challenge/WebVisualizations/ 
+Web page for this project is present at: https://savita0807.github.io/Latitude-Analysis-Dashboard/WebVisualizations/index.html
 
 ## Background
 
